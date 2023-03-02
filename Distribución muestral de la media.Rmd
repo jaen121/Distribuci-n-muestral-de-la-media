@@ -3,6 +3,8 @@ title: "Distribución Muestral de la Media"
 author: "Jairo Enrique Alba Talero"
 date: "2/3/2023"
 output: ioslides_presentation
+bibliography: biblio.bib
+csl: ieee.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -17,7 +19,7 @@ Es el conjunto de la medias de todas las muestras de tamaño n que es posible ob
 ## Ejemplo
 
 
-Suponga que se tiene una población de 5 familias (N = 5) y la variable que se estudia es el número de hijos de cada familia.
+Suponga que se tiene una población de 5 familias (N = 5) y la variable que se estudia es el número de hijos de cada familia [@martinez2012estadistica].
 
 | Familia           | Hijos       | 
 |-------------------|-------------|
@@ -267,3 +269,5 @@ El tiempo promedio  que gasta el bus urbano en Barranquilla es de 70 minutos. Se
 + ¿Cuál es la probabilidad de que la media muestral sea inferior a 76.26 minutos?
 
 + ¿Cuál es la probabilidad de que el promedio muestral sea superior a 64.24 minutos?
+
+## Bibliografía
