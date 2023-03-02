@@ -1,7 +1,7 @@
 ---
 title: "Distribución Muestral de la Media"
 author: "Jairo Enrique Alba Talero"
-date: "7/3/2022"
+date: "2/3/2023"
 output: ioslides_presentation
 ---
 
