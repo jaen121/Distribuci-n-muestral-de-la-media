@@ -235,9 +235,9 @@ Se extrae una muestra de 30 elementos, de una población que se sabe que tiene u
 
 Quinientos cojinetes de bolas tienen un peso promedio de 5,02 onzas y una desviación típica de 0,30 onzas. Hallar la probabilidad de que en una muestra al azar de 100 cojinetes elejidos entre este grupo tenga un peso total:
 
-+ Comprendido entre 496 y 500 onzas.
++ Comprendido entre 4,96 y 5,00 onzas.
 
-+ De más de 510 onzas.
++ De más de 5,10 onzas.
 
 
 ## Estandarización si $n \leq 30$ o no se conoce $\sigma$ es decir tenemos $s$ desviación estándar de la muestra.
