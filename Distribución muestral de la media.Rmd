@@ -239,8 +239,9 @@ Quinientos cojinetes de bolas tienen un peso promedio de 5,02 onzas y una desvia
 
 + De más de 5,10 onzas.
 
++
 
-## Estandarización si $n \leq 30$ o no se conoce $\sigma$ es decir tenemos $s$ desviación estándar de la muestra.
+## Estandarización si $n \leq 30$ y no se conoce la distribución de los datos, o no se conoce $\sigma$ es decir tenemos $s$ desviación estándar de la muestra.
 
 Si $n\leq 30$ o no se conoce $\sigma$, es decir tenemos $s$ desviación estándar de la muestra (la muestra puede ser mayor a 30 pero no se conoce la desviación estándar de la población). Se estándariza como:
 
@@ -257,7 +258,7 @@ es decir tiene una distribución t de student con n-1 grados de libertad.
 + **Población finita**
 
 <center>
-$t = \frac{\overline{X} - \mu}{  \frac{s}{\sqrt{n}}\sqrt{\frac{N - n}{{N-1}}}   } = \frac{\overline{X} - \mu}{\frac{s}{\sqrt{n-1}}}$
+$t = \frac{\overline{X} - \mu}{  \frac{s}{\sqrt{n}}\sqrt{\frac{N - n}{{N-1}}}   }$
 <center>
 
 es decir tiene una distribución t de student con n-1 grados de libertad.
